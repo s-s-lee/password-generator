@@ -2,6 +2,8 @@
 
 Generates a new, secure password when clicking the "Generate Password" button. 
 
+https://s-s-lee.github.io/password-generator/
+
 ## Preview
 
 The image below is a screenshot of the Password Generator website.
